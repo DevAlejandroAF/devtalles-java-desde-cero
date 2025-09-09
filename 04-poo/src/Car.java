@@ -1,0 +1,23 @@
+public class Car extends Vehicle {
+    private int doors;
+    private Engine engine;
+
+    public Car(String brand, String model, int year, int doors) {
+        super(brand, model, year);
+        this.doors = doors;
+        this.engine = new Engine();
+    }
+
+    public void start() {
+        System.out.println("El auto está encendido");
+        engine.start();
+    }
+
+    public int getDoors() {
+        return doors;
+    }
+
+    public void setDoors(int doors) {
+        this.doors = doors;
+    }
+}
