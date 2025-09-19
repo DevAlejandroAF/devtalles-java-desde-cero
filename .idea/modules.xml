@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-hello-world/01-hello-world.iml" filepath="$PROJECT_DIR$/01-hello-world/01-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-variables-primitivas/02-variables-primitivas.iml" filepath="$PROJECT_DIR$/02-variables-primitivas/02-variables-primitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-clases-objetos/03-clases-objetos.iml" filepath="$PROJECT_DIR$/03-clases-objetos/03-clases-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-poo/04-poo.iml" filepath="$PROJECT_DIR$/04-poo/04-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-abstract-classes-interfaces/05-abstract-classes-interfaces.iml" filepath="$PROJECT_DIR$/05-abstract-classes-interfaces/05-abstract-classes-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-arrays-y-colecciones/06-arrays-y-colecciones.iml" filepath="$PROJECT_DIR$/06-arrays-y-colecciones/06-arrays-y-colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devtalles-java-desde-cero.iml" filepath="$PROJECT_DIR$/.idea/devtalles-java-desde-cero.iml" />
+    </modules>
+  </component>
+</project>
